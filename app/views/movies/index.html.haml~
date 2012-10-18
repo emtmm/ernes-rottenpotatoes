@@ -1,6 +1,0 @@
-%h2 All Movies
-
-%table#movies
-    %thead
-        %tr
-             
